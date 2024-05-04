@@ -1,6 +1,6 @@
 # Netflix Clone App
 
-![Banner](https://github.com/KavyaMistry369/netflix_clone/assets/130814792/f4e5fd9c-d396-4958-aeab-a455846174d9)
+![Banner](https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/50590f5a-62dc-4d0f-bcbd-1bdbb17cfd31)
 
 This Flutter app replicates the features of the popular streaming platform Netflix, allowing users to browse trending movies and shows, family-friendly content, and animations. Users can also search for specific titles, view detailed information about each movie or show, and watch trailers directly within the app.
 
@@ -15,43 +15,51 @@ This Flutter app replicates the features of the popular streaming platform Netfl
 - Trailers: Watch trailers for movies and shows via webView.
 
 
+
 ## Screenshots
 
 <div align="center">
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/8cdaf29a-63f6-4d1e-a581-54a255c92b6c" alt="Screenshot 1" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/188a85d4-41bc-46e8-929a-e0aab02635dd" alt="Screenshot 2" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/c79b56ac-5fb9-40b7-87d8-25e00dd6bc10" alt="Screenshot 3" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/08f1e807-7033-40a9-99bd-a46d6085176d" alt="Screenshot 4" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/5ac615b2-d356-4eed-bff5-7f4ad45e6e55" alt="Screenshot 1" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/5ac615b2-d356-4eed-bff5-7f4ad45e6e55" alt="Screenshot 2" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/01a4d205-2af4-4a6d-af5e-ed73ae53f824" alt="Screenshot 3" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/8be098ca-8652-48c5-9dab-d523cdae9f4b" alt="Screenshot 4" width="200"/>
+</div>
+<br/>
+
+
+
+
+<div align="center">
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/5e081e01-2992-4590-a30f-2b87bf052b03" alt="Screenshot 5" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/3a365166-5681-493b-afdd-ddba327d3668" alt="Screenshot 6" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/6112013e-bf71-4553-971f-785a0441156a" alt="Screenshot 7" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/3ae26f21-f6cb-4428-bac3-b2c2e670ea7a" alt="Screenshot 8" width="200"/>
 </div>
 <br/>
 <div align="center">
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/c70621c9-9a69-4113-b267-bb50834bd20a" alt="Screenshot 5" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/261b1f78-efc1-4c16-83a1-c70da6241bd3" alt="Screenshot 6" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/0fc678eb-65cf-4d65-86ab-bf8e416020a8" alt="Screenshot 7" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/3f201e13-7607-4e92-95c9-b36d8b0c6ae8" alt="Screenshot 8" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/f71d60a0-ef2c-4d35-9418-2d5b3666b16d" alt="Screenshot 1" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/d198a4e0-3b88-4f2d-b2b6-3b164b12485b" alt="Screenshot 2" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/33b611f8-dff5-453f-84f7-50ce27b10c61" alt="Screenshot 3" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/070a2c59-3040-44a1-a549-43057ffee776" alt="Screenshot 4" width="200"/>
 </div>
 <br/>
 <div align="center">
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/deff3f08-e31a-43e3-ac02-d0f05006a10e" alt="Screenshot 1" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/009323c9-7cbb-4fb4-86e1-1b047fb0330f" alt="Screenshot 2" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/a64a8f82-d2cd-4fe9-b981-b8dd8a7fcf59" alt="Screenshot 3" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/801964e5-091c-46eb-9685-d3e5ac844a87" alt="Screenshot 4" width="200"/>
-</div>
-<br/>
-<div align="center">
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/b1acf12c-df4d-4b84-ab54-5b5bedd26510" alt="Screenshot 5" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/407d88af-a97f-4128-b9e0-06faff0b1498" alt="Screenshot 6" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/570a1f4e-8e2d-4213-a059-55c49e7089aa" alt="Screenshot 7" width="200"/>
-    <img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/82623b0f-597f-408a-aaf0-8ce9152990ac" alt="Screenshot 8" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/d07a18ff-a21e-4713-8944-0519d4a889c5" alt="Screenshot 5" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/16ba0774-e01d-41be-9059-5804246ee4da" alt="Screenshot 6" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/a4f1ea8f-974c-4ab2-ac7a-cd11d36e1310" alt="Screenshot 7" width="200"/>
+    <img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/91c92bec-0fb7-4de3-a460-818197a3ce75" alt="Screenshot 8" width="200"/>
 </div>
 
 
 ## Video
 
-https://github.com/KavyaMistry369/netflix_clone/assets/130814792/6f4046af-851d-4b09-b260-b6b1afafd3ac
+
+https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/59889a81-1aaf-4d04-bf9d-f25814efa283
+
 
 ## App Logo
 
+
 <div align="center">
-<img src="https://github.com/KavyaMistry369/netflix_clone/assets/130814792/c3d0e183-28a8-4bc7-b1a7-f52309300af5" alt="Big Logo" width="500">
+<img src="https://github.com/Zafar-Iqbal-Khan/netflix-clone/assets/68896404/ab4e7fd1-355f-4929-ab2a-38a30256f6ac" alt="Big Logo" width="500">
 </div>
